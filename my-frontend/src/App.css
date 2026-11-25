@@ -626,7 +626,7 @@ button.secondary:hover:not(:disabled) {
 .certificate {
   /* Name: size, font, and placement — change these, not the certificate page. */
   --cert-name-left: 50%;
-  --cert-name-top: 41.1%;
+  --cert-name-top: 37.1%;
   --cert-name-width: 100%;
   --cert-name-font-size: 4.9cqi;
   --cert-name-font-family: "Times New Roman", Georgia, serif;
@@ -638,7 +638,7 @@ button.secondary:hover:not(:disabled) {
 
   /* QR: left-side placement and size. */
   --cert-qr-left: 2.2%;
-  --cert-qr-top: 84.2%;
+  --cert-qr-top: 71%;
   --cert-qr-size: 8.6%;
 
   position: relative;

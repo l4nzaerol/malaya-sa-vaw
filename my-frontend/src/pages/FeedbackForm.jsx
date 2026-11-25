@@ -242,7 +242,7 @@ export default function FeedbackForm({ onIssued }) {
                 </div>
               </fieldset>
               <label>
-                Department/Office
+                School/Organization
                 <input
                   value={form.organization}
                   onChange={(event) => update('organization', event.target.value)}
